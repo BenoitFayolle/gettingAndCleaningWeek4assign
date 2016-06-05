@@ -1,0 +1,19 @@
+==================================================================
+Data Science Specialization - Coursera
+Getting and Cleaning data week 4 assignment
+==================================================================
+Benoît Fayolle
+benoit.fayolle@hotmail.fr
+==================================================================
+
+DataSet:
+the tidy dataset related to questions 1, 2, 3 and 4
+contains the 66 variables measured from the gyro and accelerometer that are 
+means or standard deviations
+The 67th column is a factor indicating the activities of each observation in character form (WALKING, STANDING..)
+The 68th column is a factor indicating the subject number (1 to 30) of each observation
+
+DataSet2:
+the tidy dataset related to question 5
+each column is either the activity or subject
+each row is the computed average of the 66 variables described in DataSet for each activity or subject
